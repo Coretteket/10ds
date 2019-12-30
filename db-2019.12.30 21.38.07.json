@@ -1,0 +1,48 @@
+{
+  "day": 105,
+  "user": [
+    {
+      "id": "185468832427540480",
+      "user": "Coretteket#7675",
+      "xp": 0
+    },
+    {
+      "id": "650359140341776394",
+      "user": "Kovu#0426",
+      "xp": 0
+    }
+  ],
+  "suggestions": [
+    {
+      "id": "185468832427540480",
+      "user": "Coretteket#7675",
+      "suggestion": "A better database system.",
+      "date": "2019-12-30T19:31:40.335Z",
+      "upvotes": 0,
+      "downvotes": 1,
+      "accepted": false
+    }
+  ],
+  "policies": [
+    {
+      "name": "Gun Control",
+      "id": "guncontrol",
+      "description": "Controlling of the guns or something.",
+      "causes": "test",
+      "effects": "test",
+      "author": "Coretteket",
+      "implementation": "10",
+      "image": "https://i.imgur.com/ONFYtoH.png"
+    },
+    {
+      "name": "Abortion Laws",
+      "id": "abortionlaws",
+      "description": "Some rules on killing babies or something.",
+      "causes": "test",
+      "effects": "test",
+      "author": "Kovu",
+      "implementation": "2",
+      "image": "https://i.imgur.com/IzZutwR.png"
+    }
+  ]
+}
